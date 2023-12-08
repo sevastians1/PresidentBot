@@ -1,0 +1,8 @@
+__pycache__
+node_modules/
+output.mp3
+package-lock.json
+package.json
+test.py
+venv/
+.env
